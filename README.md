@@ -1,6 +1,6 @@
 # Messy Data Cleaning and Analysis Weightlifting Competences Case Study
 
-***Description:**  
+**Description:**  
 Developed and executed a Python-based workflow to clean and analyze messy datasets, preparing data for insightful visualizations and decision-making in weightlifting sport competence.  
 
 - **Key Contributions:**  
